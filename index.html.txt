@@ -1,0 +1,141 @@
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>投资理财知识库</title>
+    <meta name="description" content="个人投资理财知识库，记录巴菲特投资智慧、市场分析洞察、保险理财规划等内容">
+    <link rel="stylesheet" href="css/style.css">
+
+
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">💰 投资理财知识库</h1>
+            <p class="tagline">记录投资学习心得，分享市场观察洞见</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- 统计卡片 -->
+        <section class="stats">
+            <div class="stat-card">
+                <div class="stat-number">6</div>
+                <div class="stat-label">篇文章</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">4</div>
+                <div class="stat-label">个主题</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">2026</div>
+                <div class="stat-label">持续更新</div>
+            </div>
+        </section>
+
+        <!-- 巴菲特投资智慧 -->
+        <section class="category">
+            <h2 class="category-title">📊 巴菲特投资智慧</h2>
+            <p class="category-desc">深度解读股神巴菲特的投资理念与实战策略</p>
+            <div class="article-list">
+                <article class="article-card">
+                    <h3>95岁巴菲特的投资智慧:慢慢变富的艺术</h3>
+                    <p class="article-excerpt">时间的价值远胜于完美的择时。巴菲特90%的财富是在60岁以后积累的，这不是偶然，而是复利的力量在时间维度上的必然结果。</p>
+                    <div class="article-meta">
+                        <span class="tag">价值投资</span>
+                        <span class="tag">复利思维</span>
+                        <span class="tag">长期持有</span>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <!-- 市场分析洞察 -->
+        <section class="category">
+            <h2 class="category-title">🌍 市场分析洞察</h2>
+            <p class="category-desc">全球市场动态追踪与投资机会分析</p>
+            <div class="article-list">
+                <article class="article-card">
+                    <h3>川普又又又TACO了，这一次精准收割了亚洲盘</h3>
+                    <p class="article-excerpt">川普的TACO交易模式再现江湖。周五美股收盘后发推威胁伊朗，周一亚洲盘暴跌，然后突然表态缓和。普通投资者在这种波动中该如何自处？</p>
+                    <div class="article-meta">
+                        <span class="tag">地缘政治</span>
+                        <span class="tag">市场波动</span>
+                        <span class="tag">风险管理</span>
+                    </div>
+                </article>
+                <article class="article-card">
+                    <h3>过山车行情下的清醒:普通人该如何守住财富?</h3>
+                    <p class="article-excerpt">面对剧烈波动的市场，普通投资者最重要的不是抓住每一个机会，而是做好资产配置，穿越周期。HALO股和确定性收益成为新的投资方向。</p>
+                    <div class="article-meta">
+                        <span class="tag">资产配置</span>
+                        <span class="tag">确定性</span>
+                        <span class="tag">HALO股</span>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <!-- 保险理财规划 -->
+        <section class="category">
+            <h2 class="category-title">💰 保险理财规划</h2>
+            <p class="category-desc">香港保险、增额终身寿等稳健理财工具深度分析</p>
+            <div class="article-list">
+                <article class="article-card">
+                    <h3>错过了内地3.5%增额寿？香港太保鑫安逸让你重新上车！</h3>
+                    <p class="article-excerpt">保证复利3.5%，30年满期单利6.11%。在利率持续下行的时代，这是重新锁定高收益的机会。内地保司出海，把增额终身寿的高保证基因带到了香港。</p>
+                    <div class="article-meta">
+                        <span class="tag">香港保险</span>
+                        <span class="tag">增额寿</span>
+                        <span class="tag">固定收益</span>
+                    </div>
+                </article>
+                <article class="article-card">
+                    <h3>为什么理财不是富人的专利——写给每一个普通人</h3>
+                    <p class="article-excerpt">越是普通人，越需要理财。理财规划能帮我们避免陷入财务困境，让我们有能力实现想要的生活方式。从评估财务状况到制定行动计划，五步开启理财之路。</p>
+                    <div class="article-meta">
+                        <span class="tag">理财规划</span>
+                        <span class="tag">财务自由</span>
+                        <span class="tag">基础知识</span>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <!-- 风险警示 -->
+        <section class="category">
+            <h2 class="category-title">⚠️ 风险警示</h2>
+            <p class="category-desc">投资理财风险案例分析与警示</p>
+            <div class="article-list">
+                <article class="article-card">
+                    <h3>震惊！宇宙第一大所暴雷，让我想起了那些年我们追过的"高息理财"</h3>
+                    <p class="article-excerpt">某科律所、某华保险相继暴雷，涉资超百亿。你看中别人的高息，别人看中的是你的本金。任何承诺高于市场合理水平的固定收益，都是陷阱。</p>
+                    <div class="article-meta">
+                        <span class="tag">风险警示</span>
+                        <span class="tag">非法集资</span>
+                        <span class="tag">案例分析</span>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <!-- 关于本站 -->
+        <section class="about">
+            <h2>💡 关于本站</h2>
+            <p>这是我的个人投资理财知识库，用于：</p>
+            <ul>
+                <li>✅ 记录学习心得和投资思考</li>
+                <li>✅ 追踪市场动态和投资机会</li>
+                <li>✅ 分享理财规划和风险提示</li>
+            </ul>
+            <p><strong>更新频率</strong>：持续更新中</p>
+            <p><strong>最后更新</strong>：2026年4月</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>© 2026 投资理财知识库 | 持续更新中</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
